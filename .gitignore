@@ -1,0 +1,23 @@
+# backups directory
+bak
+bak/
+bak/**
+
+# vscode directory
+.vscode
+.vscode/
+.vscode/**
+
+# phone numbers file
+twilio-info.h
+
+# EEPROM address file
+addr-info.md
+
+# Secret preprocessor macros file
+secret-defines.h
+
+# c++ tests binary files
+cpp-tests/*
+!cpp-tests/**/
+!cpp-tests/*.*
